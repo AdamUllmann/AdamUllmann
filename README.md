@@ -7,7 +7,7 @@ I am also the Treasurer of the Technical Projects Club & the Secretary of UPE at
 
 My Experienced Languages: C/C++, SQL, OCaml, Python, ARM Assembly, OpenQASM, and Bash.
 
-I currently have a few projects underway, and I'm excited to put them here soon.
+I currently have a few projects underway. You can view some of the notable ones in my pinned repos.
 
 <!---
 AdamUllmann/AdamUllmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
