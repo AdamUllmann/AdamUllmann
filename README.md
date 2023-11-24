@@ -3,7 +3,7 @@ I am a full-time undergraduate Computer Science student and programmer who is in
 
 I have worked as an assistant for both IT and Programming Instruction at CSU Chico.
 
-I am also the Treasurer of the Technical Projects Club & the Secretary of UPE at CSU Chico
+I am also the President of the Technical Projects Club & the Secretary of UPE at CSU Chico
 
 My Experienced Languages: C/C++, SQL, Python, Javascript, OCaml, ARM Assembly, and Bash.
 
