@@ -1,5 +1,5 @@
 # `Hey, World! Adam here...`
-I am a Software Engineer & full-time undergraduate Computer Science student. My "niche" is mostly DSP, simulation, and apps for Windows & Linux.
+I am a Software Engineer & full-time Computer Science student. My "niche" is mostly DSP, simulation, and codegen/automation.
 
 I have worked as an engineering intern at AJA Video Systems and as an Assistant for IT & Programming Instruction at CSU Chico.
 
