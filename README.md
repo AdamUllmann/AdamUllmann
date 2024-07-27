@@ -1,13 +1,13 @@
 # `Hey, World! Adam here...`
-I am a full-time undergraduate Computer Science student and programmer who is interested in interdisciplinary projects relating to music, simulations, and productivity.
+I am a Software Engineer & full-time undergraduate Computer Science student. My "niche" is mostly DSP, simulation, and apps for Windows & Linux.
 
-I have worked as an assistant for both IT and Programming Instruction at CSU Chico.
+I have worked as an engineering intern at AJA Video Systems and as an Assistant for IT & Programming Instruction at CSU Chico.
 
-I am also the President of the Technical Projects Club & the Secretary of UPE at CSU Chico
+I am also the former President of the Technical Projects Club & the current VP of UPE at CSU Chico.
 
-My Experienced Languages: C/C++, SQL, Python, Javascript, OCaml, ARM Assembly, and Bash.
+I'm experienced in C/C++ and have written Python, JavaScript, and Various Assemblies. I have also used HDLs like Verilog.
 
-I currently have a few projects underway. You can view some of the notable ones in my pinned repos.
+I've created some pretty cool projects. You can view some of the notable ones in my pinned repos.
 
 <!---
 AdamUllmann/AdamUllmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
