@@ -1,11 +1,7 @@
 # `Hey, World! Adam here...`
-I am a Software Engineer & full-time Computer Science student. My "niche" is realtime audio, video processing, and embedded.
+I am a Software Engineer with a BS in Computer Science. My "niche" is realtime audio, video processing, and embedded.
 
-I have worked as an engineering intern at AJA Video Systems (twice) and as an Assistant for IT & Programming Instruction.
-
-I am also the former President of the Technical Projects Club & the current VP of UPE at CSU Chico.
-
-I'm experienced in C/C++ and have written Python, JavaScript, and Various Assemblies. I have also used some HDLs.
+I'm experienced in C/C++ and Python, and have written software in JavaScript and Various Assemblies.
 
 I've created some pretty cool projects. You can view some of the notable ones in my pinned repos.
 
